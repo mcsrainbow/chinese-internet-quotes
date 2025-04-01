@@ -1,4 +1,4 @@
-# chinese-internet-quotes 互联网语录集
+# chinese-internet-quotes 中文互联网语录集
 
 ## 精辟语录
 
