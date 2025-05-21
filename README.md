@@ -1116,6 +1116,8 @@ What the fuck
 开这个车去老丈人家，能先动筷么？  
 掀桌子都没问题！  
 
+hand hands, loud louds
+
 ## 怼人语录
 
 我是算命的，请问你算什么东西
