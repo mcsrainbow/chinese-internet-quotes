@@ -1395,6 +1395,8 @@ ICU里抢C位，地府门口玩派对
 
 ## 正经语录
 
+Keep everyone busy and make boss happy
+
 出门在外，身份都是自己给的
 
 人，物质基础达到了一定高度，精神才能升华
