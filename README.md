@@ -1496,6 +1496,10 @@ ta们不配让你难过
 
 外棺大气，内逝豪华
 
+心地善良，智力不详
+
+智力不详，执行力超强
+
 ## 正经语录
 
 哲学思想没有对错，只有上下文与准确性
@@ -2551,8 +2555,6 @@ strong(死装)哥
 You’re not failing, you might just be measured by the wrong yardstick.  
 Everybody is a genius.  
 But if you judge a fish by its ability to climb a tree. It will live its whole life believing that it is stupid.  
-
-心地善良，智商不详
 
 你是出去跟他玩了一天，还是出去被他玩了一天？
 
